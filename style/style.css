@@ -1,0 +1,13 @@
+body{
+    background-color: linear-gradient(to right, blue, red);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.titulo{
+    font-size: 50px;
+    text-align: center;
+}
+
+.registro{
+    display: flex;
+    flex-direction: column;
+}
